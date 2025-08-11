@@ -11,7 +11,7 @@ Key features:
 - **Example usage:** Demo code in `main.cpp` exercises all account types.
 - **Build system:** CMake configuration for building with C++17 standard.
 
----
+```
 
 Project Hierarchy:  
 BankAccountProject/  
@@ -24,7 +24,7 @@ BankAccountProject/
 ├── CMakeLists.txt              # CMake build configuration  
 └── README.md                   # This project overview and instructions  
 
----
+```
 
 ### Build & Run Instructions
 
