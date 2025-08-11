@@ -12,7 +12,7 @@ Key features:
 - **Testing:** Demo in `main.cpp` with various expression tests.
 - **Build:** Makefile and CMake; requires C++17.
 
----
+```
 Expression/
 ├── include/
 │ ├── Expression.hpp # Declarations of Expression classes and templates
@@ -24,7 +24,7 @@ Expression/
 ├── CMakeLists.txt # CMake build configuration
 ├── Makefile # Makefile for build convenience
 └── README.md # Project overview and instructions
----
+```
 
 ### Build & Run Instructions
 
