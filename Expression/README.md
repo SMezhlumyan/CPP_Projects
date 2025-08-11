@@ -13,9 +13,7 @@ Key features:
 - **Build:** Makefile and CMake; requires C++17.
 
 ---
-
-Project Hierarchy:
-ExpressionProject/
+Expression/
 ├── include/
 │ ├── Expression.hpp # Declarations of Expression classes and templates
 │ └── Expression.tpp # Implementation of templated Expression classes
@@ -25,7 +23,7 @@ ExpressionProject/
 ├── build/ # Build output directory (gitignored)
 ├── CMakeLists.txt # CMake build configuration
 ├── Makefile # Makefile for build convenience
-└── README.md # This project overview and instructions
+└── README.md # Project overview and instructions
 ---
 
 ### Build & Run Instructions
